@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Unit Testing (with Jest & Enzyme) is the most important thing in it.
+
 ## Available Scripts
 
 In the project directory, you can run:
